@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:88:6:subscription_callback	24	static
+../Core/Src/freertos.c:97:6:timer_callback	24	static
+../Core/Src/freertos.c:111:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:153:6:StartDefaultTask	464	static

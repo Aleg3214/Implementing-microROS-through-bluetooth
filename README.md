@@ -4,7 +4,7 @@ The implementation has been done using a __NUCLEO STM32F401RE__ and a __bluetoot
 
 Please check the __documentation file "ROS2_Bluetooth.pdf"__ for specific informations on how to:
 
-  -Setup STM Cube IDE for the current application;
+    -Setup STM Cube IDE for the current application;
 
   -Setup STM Cube MX for the current application; 
 

@@ -16,7 +16,7 @@ __After ensuring all the previously written steps are executed and Bluetooth com
 
 - Pair (through settings) and bind the HC-05 module using the command:
 
-    sudo rfcomm bind /dev/rfcomm0 98:D3:31:F5:AB:E2
+      sudo rfcomm bind /dev/rfcomm0 98:D3:31:F5:AB:E2
 
 - Access the "agent_ws" folder and launch the following commands:
 

@@ -20,11 +20,11 @@ __After ensuring all the previously written steps are executed and Bluetooth com
 
 - Access the "agent_ws" folder and launch the following commands:
 
-    colcon build
+      colcon build
 
-    source install/setup.bash
+      source install/setup.bash
   
-    ros2 run micro ros agent micro ros agent serial -b 9600 --dev /dev/rfcomm0
+      ros2 run micro ros agent micro ros agent serial -b 9600 --dev /dev/rfcomm0
 
 - After running these commands, ROS2 functions initialization starts. __It might be needed to press the reset button on the board to make the iniziliation start correctly.__
  
